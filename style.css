@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: rgb(252, 225, 176);
+}
+
+h1 {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+h2 {
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+.note {
+    color: black;
+    font-weight: lighter;
+}
+
+div {
+    width: 100%;
+    font-family: serif;
+}
+
+.copy_right_footer {
+    background-color: lightsalmon;
+    color: whitesmoke;
+    bottom: 0%;
+    position: fixed;
+    font-size: 24px;
+
+}
